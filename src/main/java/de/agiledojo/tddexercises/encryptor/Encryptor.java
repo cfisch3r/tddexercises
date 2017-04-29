@@ -4,7 +4,7 @@ import java.security.InvalidParameterException;
 
 /**
  * Encryptor legacy code kata from Emily Bache
- * @see <a
+ * @see <a href="https://github.com/emilybache/Encryptor-Refactoring-Kata">Encryptor Kata</a>
  */
 public class Encryptor {
 
